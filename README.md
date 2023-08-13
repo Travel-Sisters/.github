@@ -1,4 +1,4 @@
-# .github
+# Travel-Sisters
 readme da organização
 
 ### Integrantes 
