@@ -6,7 +6,7 @@
 <br>
 <div align="center">
 
-![img](site/public/css/assets/readme.png)
+![img](src/assets/img/bg-pink.png)
 
 </div>
 
