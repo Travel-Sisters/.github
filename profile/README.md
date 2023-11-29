@@ -1,14 +1,26 @@
 <h1 align="center">Bem-vindo à Travel-Sisters</h1>
+<h2 align="center"> Trilhe seu próoprio caminho </h2>
 
-<h3 align="center">Somos uma empresa </h3>
+<h3 align="center">Somos uma empresa comprometida com a segurança e o bem-estar das mulheres durante suas viagens. A Travel-Sister foi concebida com o objetivo central de estabelecer um intermédio entre as empresas de vans de viagens e as mulheres que buscam uma experiência de viagem exclusiva e segura. </h3>
 
 <br>
 <div align="center">
 
-![GIF](https://giphy.com/gifs/loop-3d-cinema-4d-xTiTnh5azRSd2UUgZW)
+![img](site/public/css/assets/readme.png)
 
 </div>
 
+### Visão Geral
+
+A Travel-Sister promove uma abordagem única, na qual apenas mulheres estão envolvidas no processo, atuando tanto como motoristas quanto como passageiras. Acreditamos que essa abordagem contribui não apenas para a segurança, mas também para a criação de um ambiente acolhedor e confiável para todas as mulheres que desejam viajar.
+
+### Características Principais
+
+Segurança Exclusiva para Mulheres: Garantimos um ambiente seguro, livre de preocupações, ao promover viagens exclusivas para mulheres.
+
+Conexão Eficiente: Nossa plataforma online conecta mulheres que buscam serviços de transporte a empresas de vans de viagens comprometidas com a segurança feminina.
+
+Apenas Mulheres Envolvidas: Tanto as motoristas quanto as passageiras são exclusivamente mulheres, proporcionando uma experiência única e livre de preocupações.
 
 ### Integrantes 
 
@@ -27,3 +39,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" whidth="100" height="100" align="center" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" whidth="100" height="100" align="center" />
 
+</div>
