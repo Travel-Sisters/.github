@@ -6,7 +6,7 @@
 <br>
 <div align="center">
 
-![img](src/assets/img/bg-pink.png)
+![img](https://github.com/Travel-Sisters/front-end2/blob/main/src/assets/img/bg-pink.png)
 
 </div>
 
