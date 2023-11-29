@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo à Travel-Sisters</h1>
 <h2 align="center"> Trilhe seu próoprio caminho </h2>
 
-<h3 align="center">Somos uma empresa comprometida com a segurança e o bem-estar das mulheres durante suas viagens. A Travel-Sister foi concebida com o objetivo central de estabelecer um intermédio entre as empresas de vans de viagens e as mulheres que buscam uma experiência de viagem exclusiva e segura. </h3>
+<h4 align="center">Somos uma empresa comprometida com a segurança e o bem-estar das mulheres durante suas viagens. A Travel-Sister foi concebida com o objetivo central de estabelecer um intermédio entre as empresas de vans de viagens e as mulheres que buscam uma experiência de viagem exclusiva e segura. </h4>
 
 <br>
 <div align="center">
