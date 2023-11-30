@@ -16,11 +16,11 @@ A Travel-Sister promove uma abordagem única, na qual apenas mulheres estão env
 
 ### Características Principais
 
-Segurança Exclusiva para Mulheres: Garantimos um ambiente seguro, livre de preocupações, ao promover viagens exclusivas para mulheres.
+- Segurança Exclusiva para Mulheres: Garantimos um ambiente seguro, livre de preocupações, ao promover viagens exclusivas para mulheres.
 
-Conexão Eficiente: Nossa plataforma online conecta mulheres que buscam serviços de transporte a empresas de vans de viagens comprometidas com a segurança feminina.
+- Conexão Eficiente: Nossa plataforma online conecta mulheres que buscam serviços de transporte a empresas de vans de viagens comprometidas com a segurança feminina.
 
-Apenas Mulheres Envolvidas: Tanto as motoristas quanto as passageiras são exclusivamente mulheres, proporcionando uma experiência única e livre de preocupações.
+- Apenas Mulheres Envolvidas: Tanto as motoristas quanto as passageiras são exclusivamente mulheres, proporcionando uma experiência única e livre de preocupações.
 
 ### Integrantes 
 
